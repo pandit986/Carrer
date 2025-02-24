@@ -33,3 +33,14 @@ Build & Automation: Webpack, Babel, NPM/Yarn, and CI/CD tools like Jenkins
 Testing & Debugging: Jest, Cypress, Chrome DevTools, and linting tools
 Version Control & Collaboration: Git and GitHub
 Cloud & Hosting: Experience with AWS and Azure for static hosting and cloud CDN services
+
+
+# Why should be hired you
+I have strong hands-on experience in React and React Native, demonstrated by my work at Fyntune Solutions, where I helped develop a platform serving over 100K daily users. My proficiency in modern JavaScript frameworks enables me to deliver scalable and efficient solutions quickly, making me an excellent fit for your team.
+
+
+
+
+
+
+
